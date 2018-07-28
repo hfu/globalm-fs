@@ -1,0 +1,26 @@
+{
+  "name": "globalm-fs",
+  "version": "1.0.0",
+  "description": "Global Map feature stream (PoC: proof of concept)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/globalm-fs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/globalm-fs/issues"
+  },
+  "homepage": "https://github.com/hfu/globalm-fs#readme",
+  "dependencies": {
+    "config": "^2.0.0",
+    "hjson": "^3.1.1",
+    "node-fetch": "^2.2.0",
+    "shapefile": "^0.6.6"
+  }
+}

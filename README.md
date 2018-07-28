@@ -13,6 +13,7 @@ $ npm install
 
 ## Usage
 ```sh
+$ nano config/default.hjson
 $ node index.js
 ```
 

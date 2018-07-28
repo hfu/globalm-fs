@@ -1,0 +1,5 @@
+{
+  server: globalmaps.github.io
+  dataset: gmlk20
+  t: roadl_lka
+}
