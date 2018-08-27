@@ -7,7 +7,7 @@ I want to create a feature stream (NDJSON of GeoJSON features) from Global Map d
 ## Install
 ```sh
 $ git clone git@github.com:hfu/globalm-fs.git
-$ cd global-fs
+$ cd globalm-fs
 $ npm install
 ```
 
